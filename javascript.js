@@ -1,2 +1,3 @@
-console.log("Hello world");
-console.log(document.getElementById("red"));
+function changeTrafficLight(){
+    console.log(document.getElementById("red"));
+}
